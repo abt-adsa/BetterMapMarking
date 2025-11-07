@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36623.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BetterMapMarking", "BetterMapMarking.csproj", "{E372313B-7E6C-41DC-8A8F-24A4F059249E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E372313B-7E6C-41DC-8A8F-24A4F059249E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E372313B-7E6C-41DC-8A8F-24A4F059249E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E372313B-7E6C-41DC-8A8F-24A4F059249E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E372313B-7E6C-41DC-8A8F-24A4F059249E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {854B3301-3080-43E8-B401-DC3A657C7927}
+	EndGlobalSection
+EndGlobal
